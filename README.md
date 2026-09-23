@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./Mo.svg" width="256" height="256" /><br>
-# MozuGit
+# 魔族陌
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MozuGit/MozuGit/output/github-contribution-grid-snake-dark.svg">
